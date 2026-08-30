@@ -9,7 +9,7 @@ source:
   sha256: 173ac75ea60351540a237b8d4fde5d89b5d6645545771dfe3c9abe8b637f2b35
 
 build:
-  number: 0
+  number: 1
   # relocation errors
   skip: true  # [ppc64le]
   # todo: segfaults for unknown reason
